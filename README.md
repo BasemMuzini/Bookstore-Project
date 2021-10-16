@@ -1,2 +1,1 @@
-# JavaScript-Program-Code-Bookstore-
-Bookstore Project
+JavaScript Program Code for Bookstore
